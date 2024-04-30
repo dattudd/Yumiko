@@ -59,7 +59,7 @@
       }
     },
     "UPSTREAM_REPO":{
-    "description"
+    "description":
     "value": "",
     "required": true
     
