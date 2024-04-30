@@ -59,8 +59,8 @@
       }
     },
     "UPSTREAM_REPO":{
-    "description":
-    "value": "",
+    "description": "A music bot player upstream_repo"
+    "value": "https://github.com/dattudd/Yumiko",
     "required": true
     
           {
