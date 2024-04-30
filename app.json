@@ -58,7 +58,11 @@
         "required": true
       }
     },
-    "buildpacks": [
+    "UPSTREAM_REPO":{
+    "description"
+    "value": "",
+    "required": true
+    
           {
               "url": "heroku/python"
           },
